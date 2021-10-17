@@ -1,0 +1,12 @@
+{
+  "name": "sebarancovid",
+  "version": "1.0.0",
+  "description": "menggunakan leafletjs",
+  "main": "peta.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "FarelAkbar",
+  "license": "ISC"
+}
